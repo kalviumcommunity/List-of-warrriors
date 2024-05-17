@@ -1,11 +1,13 @@
 const express = require('express');
 const app = express();
-const port =  4001;
+const port =  4011;
+const routes = require('./routes')
+const schema = require('./schema')
 const dotenv = require('dotenv').config();
 const mongoose = require('mongoose');
 const connection = process.env.URI;
 
-const routes = require('./routes'); 
+
 
 var cors = require('cors')
 app.use(cors())
