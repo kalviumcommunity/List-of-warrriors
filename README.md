@@ -8,5 +8,16 @@
 
  Deployed link :- https://list-of-warrriors-rajmalpure.onrender.com/ping
 
-* React + Vite
+ *React + vite
+
+ Deployed link after M10:- https://react-sigma-sable.vercel.app/
+
+ Final output link :-  https://warrior-sigma.vercel.app/
+
+
+
+
+
+
+
 
